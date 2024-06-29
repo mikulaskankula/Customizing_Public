@@ -1,0 +1,16 @@
+[
+ {
+  "table":"ZGITBUB_PUBLIC1",
+  "data":
+  [
+   {
+    "MANDT":"___",
+    "GIT_ID":1
+   },
+   {
+    "MANDT":"___",
+    "GIT_ID":2
+   }
+  ]
+ }
+]

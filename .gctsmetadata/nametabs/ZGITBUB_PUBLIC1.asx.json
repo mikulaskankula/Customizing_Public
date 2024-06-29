@@ -1,0 +1,32 @@
+[
+ {
+  "table":"ZGITBUB_PUBLIC1",
+  "nametab":
+  [
+   {
+    "NAME":"MANDT",
+    "KEY":"X",
+    "TYPE":"C",
+    "LENGTH":3,
+    "DECIMALS":-1
+   },
+   {
+    "NAME":"GIT_ID",
+    "KEY":"X",
+    "TYPE":"I",
+    "LENGTH":4,
+    "DECIMALS":-1
+   }
+  ],
+  "properties":
+  [
+   {
+    "CLIENTDEPENDENCY":"YES",
+    "DELIVERYCLASS":"C",
+    "TABART":"APPL1",
+    "TABFORM":"T",
+    "REFNAME":"-"
+   }
+  ]
+ }
+]

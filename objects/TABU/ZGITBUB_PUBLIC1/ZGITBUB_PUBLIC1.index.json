@@ -1,0 +1,36 @@
+[
+ {
+  "table":"ZGITBUB_PUBLIC1",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"GIT_ID",
+      "value":"1"
+     }
+    ],
+    "hash":"Hj2q4EZMK1hW5l8JUTCZ0y8W/Xk="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"___"
+     },
+     {
+      "key":"GIT_ID",
+      "value":"2"
+     }
+    ],
+    "hash":"Jq4Ym/T+ho15p74Ix+Ev58m/jCw="
+   }
+  ]
+ }
+]
